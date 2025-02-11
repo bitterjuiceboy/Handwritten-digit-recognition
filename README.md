@@ -1,1 +1,1 @@
-# Handwritten digit congnition
+# Handwritten digit recognition
